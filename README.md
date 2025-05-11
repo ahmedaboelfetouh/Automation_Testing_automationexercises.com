@@ -1,2 +1,2 @@
 # Automation Testing automationexercises.com
-Automation Testing for automationexercises.com (from Testcase 1 to Testcase 26)
+Automation Testing for automationexercises.com (from Test case 1 to Test case 26)
