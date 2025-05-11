@@ -1,0 +1,67 @@
+2025-05-07 10:55:19,419 [main] INFO : Start Home Page Visibility Test
+2025-05-07 10:55:29,626 [main] INFO : Home Page is Visible
+2025-05-07 10:55:29,626 [main] INFO : End Home Page Visibility Test
+2025-05-07 11:00:15,017 [main] INFO : 🚀 Start Home Page Visibility Test
+2025-05-07 11:00:27,738 [main] INFO : ✅ Home Page is Visible
+2025-05-07 11:00:27,738 [main] INFO : 🚪 End Home Page Visibility Test
+2025-05-07 11:24:20,606 [main] INFO : 🚀 Start Home Page Visibility Test
+2025-05-07 11:24:24,546 [main] INFO : ✅ Home Page is Visible
+2025-05-07 11:24:24,546 [main] INFO : 🚪 End Home Page Visibility Test
+2025-05-07 11:24:25,936 [main] INFO : 🚀 Start New User Sign UP Visibility Test
+2025-05-07 11:25:34,874 [main] INFO : 🚀 Start Home Page Visibility Test
+2025-05-07 11:25:36,563 [main] INFO : ✅ Home Page is Visible
+2025-05-07 11:25:36,564 [main] INFO : 🚪 End Home Page Visibility Test
+2025-05-07 11:25:38,101 [main] INFO : 🚀 Start New User Sign UP Visibility Test
+2025-05-07 11:25:39,200 [main] INFO : ✅ New User Sign UP! is Visible
+2025-05-07 11:25:39,201 [main] INFO : 🚪 End New User Sign UP Visibility Test
+2025-05-07 11:26:48,018 [main] INFO : 🚀 Start Home Page Visibility Test
+2025-05-07 11:26:50,284 [main] INFO : ✅ Home Page is Visible
+2025-05-07 11:26:50,284 [main] INFO : 🚪 End Home Page Visibility Test
+2025-05-07 11:26:51,933 [main] INFO : 🚀 Start New User Sign UP Visibility Test
+2025-05-07 11:26:53,056 [main] INFO : ✅ New User Sign UP! is Visible
+2025-05-07 11:26:53,056 [main] INFO : 🚪 End New User Sign UP Visibility Test
+2025-05-07 11:41:23,222 [main] INFO : ✅ Home Page is Visible
+2025-05-07 11:42:45,887 [main] INFO : ✅ Home Page is Visible
+2025-05-07 11:55:36,295 [main] INFO : ✅ Home Page is Visible
+2025-05-07 11:58:10,655 [main] INFO : ✅ Home Page is Visible
+2025-05-07 12:07:32,515 [main] INFO : 🚀 🚀 🚀 Starting Test Case 1
+2025-05-07 12:07:35,766 [main] INFO : ✅ navigate to URL
+2025-05-07 12:07:38,504 [main] INFO : ✅ Home Page is Visible
+2025-05-07 12:07:39,854 [main] INFO : ✅ enter login/sign up page
+2025-05-07 12:07:39,933 [main] INFO : ✅ new user sign up! is visible
+2025-05-07 12:07:40,235 [main] INFO : ✅ set name
+2025-05-07 12:07:40,412 [main] INFO : ✅ set email
+2025-05-07 12:07:41,299 [main] INFO : ✅ click on Sign Up button
+2025-05-07 12:08:08,447 [main] INFO : 🚀 🚀 🚀 Starting Test Case 1
+2025-05-07 12:08:10,374 [main] INFO : ✅ navigate to URL
+2025-05-07 12:08:31,704 [main] INFO : ✅ Home Page is Visible
+2025-05-07 12:08:32,772 [main] INFO : ✅ enter login/sign up page
+2025-05-07 12:08:33,030 [main] INFO : ✅ new user sign up! is visible
+2025-05-07 12:08:33,220 [main] INFO : ✅ set name
+2025-05-07 12:08:33,429 [main] INFO : ✅ set email
+2025-05-07 12:08:34,383 [main] INFO : ✅ click on Sign Up button
+2025-05-07 12:08:34,430 [main] INFO : ✅ Enter account info is visible
+2025-05-07 12:08:34,756 [main] INFO : ✅ set gender
+2025-05-07 12:08:35,024 [main] INFO : ✅ set password
+2025-05-07 12:08:35,339 [main] INFO : ✅ set birth day
+2025-05-07 12:08:35,722 [main] INFO : ✅ set birth month
+2025-05-07 12:08:36,105 [main] INFO : ✅ set birth month
+2025-05-07 12:08:36,285 [main] INFO : ✅ set newsteller
+2025-05-07 12:08:36,432 [main] INFO : ✅ set special offers
+2025-05-07 12:08:36,587 [main] INFO : ✅ set first name
+2025-05-07 12:08:36,753 [main] INFO : ✅ set last name
+2025-05-07 12:08:36,897 [main] INFO : ✅ set company
+2025-05-07 12:08:37,112 [main] INFO : ✅ set address
+2025-05-07 12:08:37,287 [main] INFO : ✅ set address2
+2025-05-07 12:08:37,571 [main] INFO : ✅ set country
+2025-05-07 12:08:37,747 [main] INFO : ✅ set state
+2025-05-07 12:08:37,935 [main] INFO : ✅ set city
+2025-05-07 12:08:38,073 [main] INFO : ✅ set zip code
+2025-05-07 12:08:38,331 [main] INFO : ✅ set method number
+2025-05-07 12:08:40,493 [main] INFO : ✅ click on create account button
+2025-05-07 12:08:40,527 [main] INFO : ✅ account created is visible
+2025-05-07 12:08:42,972 [main] INFO : ✅ click continue button
+2025-05-07 12:08:43,021 [main] INFO : ✅ logged in is visible
+2025-05-07 12:08:44,071 [main] INFO : ✅ click on delete account
+2025-05-07 12:08:44,109 [main] INFO : ✅ account deleted is visible
+2025-05-07 12:08:44,110 [main] INFO : ✅✅✅✅ Test Passed ✅✅✅✅
